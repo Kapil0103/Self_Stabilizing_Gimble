@@ -11,7 +11,7 @@ A 3-axis gimbal providing real-time stabilization of camera footage using sensor
 ## 📋 Components & Tools
 - MPU6050
 - Arduino Nano
-- Brushless motors & drivers
+- Servo motor
 - LiPo battery
 
 ## 📐 Block Diagram
